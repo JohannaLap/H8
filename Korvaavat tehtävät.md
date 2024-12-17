@@ -188,8 +188,39 @@ Lisäsin sisällön sls tiedostoon masterille.
 
 ![sqlsls](https://github.com/JohannaLap/H8/blob/main/sqlsls.png)
 
-Kokeilin state.applyn vielä. 
+Kokeilin state.applyn. 
 
 ![lopputulos](https://github.com/JohannaLap/H8/blob/main/lopputulos.png)
 
+Tämän jälkeen koitin ajon vielä kaikille minioneille.
+
+![postgre kaikille](https://github.com/JohannaLap/H8/blob/main/postgre%20kaikille.png)
+
+## Kolmas testattu moduuli
+Kolmas moduuli löytyy täältä:
+
+https://github.com/MaijaForsell/PalvelintenHallinta/blob/main/h5_Postfix.md
+
+POhjavalmistelut oli jo tehtynä aiempien kokeilujen pohjalta. 
+
+Ensiksi asenneltiin Postfix.
+
+![postfixasennus](https://github.com/JohannaLap/H8/blob/main/postfixasennus.png)
+
+Valitsin nimeksi testi.org
+
+![testi.org]](https://github.com/JohannaLap/H8/blob/main/testi.org.png)
+
+Seuraavaksi oli tarkoitus muokata main.cf tiedoston sisältöä. Valitettavasti aika loppui kesken, joten tämän moduulin testaaminen jäi tähän.
+
+![main.cf tiedosto](https://github.com/JohannaLap/H8/blob/main/main.cf%20tiedosto.png)
+
+## Yhteenveto
+Kaikki testaamani moduulit vaikuttivat mielenkiintoisilta ja hauskoilta toteuttaa. Kahdessa ensimmäisessä vastaan tulleita ongelmia olisi ollut hauska jäädä ratkomaan ja katsoa miten helposti/vaikeasti selvitettäviä ne olisivat ja saisiko niitä korjattua. Olisi ollut myös mielenkiintoista jatkaa oman moduulin työstämistä ja katsoa mihin sitä olisi saanut edistettyä.
+
+## Lähteet:
+https://github.com/MaijaForsell/PalvelintenHallinta/blob/main/h5_Postfix.md
+https://github.com/guikka4/Module_project/blob/main/Module_project.md
+https://github.com/Pakknoo/Palvelinten-hallinta/blob/main/H4.md
+https://github.com/Pakknoo/Palvelinten-hallinta/blob/main/H5.md 
 
